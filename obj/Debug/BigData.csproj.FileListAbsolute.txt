@@ -1,0 +1,10 @@
+C:\Users\Or\לימודים\ביג-דאטה\פרוייקט סיכום\BigData\bin\Debug\BigData.exe.config
+C:\Users\Or\לימודים\ביג-דאטה\פרוייקט סיכום\BigData\bin\Debug\BigData.exe
+C:\Users\Or\לימודים\ביג-דאטה\פרוייקט סיכום\BigData\bin\Debug\BigData.pdb
+C:\Users\Or\לימודים\ביג-דאטה\פרוייקט סיכום\BigData\obj\Debug\BigData.csprojResolveAssemblyReference.cache
+C:\Users\Or\לימודים\ביג-דאטה\פרוייקט סיכום\BigData\obj\Debug\BigData.Properties.Resources.resources
+C:\Users\Or\לימודים\ביג-דאטה\פרוייקט סיכום\BigData\obj\Debug\BigData.csproj.GenerateResource.Cache
+C:\Users\Or\לימודים\ביג-דאטה\פרוייקט סיכום\BigData\obj\Debug\BigData.exe
+C:\Users\Or\לימודים\ביג-דאטה\פרוייקט סיכום\BigData\obj\Debug\BigData.pdb
+C:\Users\Or\לימודים\ביג-דאטה\פרוייקט סיכום\BigData\obj\Debug\BigData.ClustersView.resources
+C:\Users\Or\לימודים\ביג-דאטה\פרוייקט סיכום\BigData\obj\Debug\BigData.MainView.resources
